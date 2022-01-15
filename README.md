@@ -1,4 +1,4 @@
-# 1-1_term_project_igraphics_dxball
+# DX-Ball Reincarnation
 This is a remake of the classic DX-Ball games made with C using the iGraphics library and SDL2.
 
 ![Preview of main menu](https://raw.githubusercontent.com/WJGalib/1-1_term_project_igraphics_dxball/main/preview-1.png)
