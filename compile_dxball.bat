@@ -1,0 +1,1 @@
+g++ -IOpenGL\include -Idxball\sources\include\SDL2 -w dxball.cpp -o dxball.exe -LOpenGL\lib -Ldxball\sources\lib -lmingw32 -lGlaux -lGLU32 -lglui32 -lglut32 -lOPENGL32 -lgdi32 -lSDL2main -lSDL2 -lSDL2_mixer -O3 -mwindows -static-libgcc -static-libstdc++
